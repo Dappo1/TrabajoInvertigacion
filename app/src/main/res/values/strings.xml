@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="Registro">Registrate en nuestra página y diviertete</string>
+    <string name="primerpaso">Iniciemos indicandonos en que pais vives</string>
+    <string name="pais">Escriba un pais</string>
+    <string name="page2">Continuar</string>
+    <string name="nombre">Nombre</string>
+    <string name="apelldio">Apellido</string>
+    <string name="sexo">Selecciona tu sexo</string>
+    <string name="info2">Ingresa tus datos para continuar</string>
+    <string name="ejnombre">ejemplo : Nicolás</string>
+    <string name="ejapellido">ejemplo : Gonzalez</string>
+    <string name="masc">Masculino</string>
+    <string name="fem">Femenino</string>
+    <string name="ultimopaso">Guardar Datos</string>
+    <string name="datos">Tus datos son :</string>
+    <string name="aprov">¿están correctos tus datos? :</string>
+    <string name="verinfo">Pincha en el botón para ver la información que tenemos hasta el momento</string>
+    <string name="verinfobtn">ver información</string>
+</resources>
